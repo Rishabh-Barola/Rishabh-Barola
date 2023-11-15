@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rishabh-Barola
 - 👀 I’m interested in learning all about computers be it hardware or software
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on ..
+- 🌱 I’m proficient in python.
+- 💞️ I’m looking to collaborate on projects involving ML,DSA,Computer architecture.
 - 📫 How to reach me ...
 
 <!---
